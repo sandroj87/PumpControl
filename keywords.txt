@@ -1,0 +1,21 @@
+########################################
+# PumpControl Library Keywords
+########################################
+
+# Class name
+PumpControl	KEYWORD1
+
+# Methods
+on	KEYWORD2
+off	KEYWORD2
+onFor	KEYWORD2
+addVolume	KEYWORD2
+setFlow	KEYWORD2
+setVolume	KEYWORD2
+drop	KEYWORD2
+setDropTimes	KEYWORD2
+stateChanged	KEYWORD2
+getDrops	KEYWORD2
+update	KEYWORD2
+
+# Constants and others (if applicable)

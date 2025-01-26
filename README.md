@@ -1,2 +1,1 @@
-# PumpControl
- Simple library to control pumps driven by a relay
+PumpControl for Arduino: an easy way to control pumps driven by a relay.
